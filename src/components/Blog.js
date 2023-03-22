@@ -1,7 +1,6 @@
 import React from 'react';
 import { Box, Container, Grid, Typography } from '@mui/material';
 import { styled } from '@mui/material/styles';
-import { Link } from 'react-router-dom';
 
 const BlogCard = styled(Box)({
   display: 'flex',
