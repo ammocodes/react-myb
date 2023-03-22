@@ -1,6 +1,6 @@
 import React from 'react';
 
-const ComponentName = () => {
+const BlogPostDetails = () => {
   return (
     <div>
       {/* Your component's content and logic go here */}
@@ -8,4 +8,4 @@ const ComponentName = () => {
   );
 };
 
-export default ComponentName;
+export default BlogPostDetails;
